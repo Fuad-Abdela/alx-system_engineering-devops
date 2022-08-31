@@ -1,2 +1,2 @@
-#!/bi 1bsh
+#!/bin/bash
 ls -1a
